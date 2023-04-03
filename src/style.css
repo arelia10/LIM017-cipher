@@ -57,8 +57,12 @@ b {
   width: 200%;
   position: absolute;
 }
-.txt1 {
-  position: absolute;
+.txt1{
+  margin-left: 20rem;
+  float: left;
+}
+.botones{
+left: 20rem;
 }
 
 .little3 {
@@ -114,7 +118,7 @@ input {
 .encodebtn {
   position: absolute;
   top: 33rem;
-  left: 38rem;
+  left: 82rem;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -129,7 +133,7 @@ input {
 .decodebtn {
   position: absolute;
   top: 33rem;
-  left: 59rem;
+  left: 53rem;
   align-items: center;
   font-family: Georgia, "Times New Roman", Times, serif;
   background-color: rgba(233, 80, 80, 1);
@@ -162,7 +166,7 @@ input {
 .returnbutton {
   position: absolute;
   top: 53rem;
-  left: 50rem;
+  left: 53rem;
   align-items: center;
   font-family: Georgia, "Times New Roman", Times, serif;
   background-color: rgba(233, 80, 80, 1);
